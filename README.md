@@ -1,7 +1,3 @@
 # hello-world
-my hello world test
-
-Hi, Human
-
-neghen here, I like linux.
-This is my first time to use github.
+1. largest_x64.s a x64 asm program to find largest data
+2. setaddr.c  a c program to set ip address
