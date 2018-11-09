@@ -1,8 +1,8 @@
 #include "valid.h"
 
 /*
- *  * write ipaddr and netmaks to file
- *   */
+ * write ipaddr and netmaks to file
+ */
 int write_data(const char *filename, off_t pos, const struct dev_data *data)
 {
 	int ret = 0;
